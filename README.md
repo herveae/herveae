@@ -1,5 +1,5 @@
 - 👋 Hi, Je suis AYISSI ESSOMBA Herve
-    je suis etudiant en Ingenieurie Logiciel, Certifie en IOT Connecting Things Cisco, et Developpeur Web.
+    je suis etudiant en Ingenieurie Logiciel, Certifie en IOT Connecting Things Cisco, et Developpeur Web front-end.
 
     
 - 👀 Les langages et frameworks  et outils dans lesquelles je travailles en globalite sont:
