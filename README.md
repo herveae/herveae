@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="100%" src="https://media.tenor.com/cBUtv3HOBh4AAAAC/header.gif">
 <h1 align="center">Hi 👋, I'm AYISSI ESSOMBA Herve</h1>
-<h3 align="center">A passionate frontend developer from Cameroon</h3>
+<h3 align="center">A passionate developer from Cameroon</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
