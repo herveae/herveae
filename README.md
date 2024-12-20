@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **herveae@gmail.com**
 
-- ⚡ Fun fact **I'am funny**
+- ⚡ Fun fact **What is the difference between the owl and the rope? **
 
 
 <h3 align="left">Connect with me:</h3>
